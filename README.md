@@ -125,16 +125,29 @@ Failed bookings highlight operational inefficiencies before confirmation stage.
 ---
 
 ## 📁 Repository Structure
----
+
+```
 hotel_bookings_case_study/
 │
-├── report/ # Final business report (PDF)
-├── visuals/ # Generated analysis charts
-├── hotel_analysis.ipynb # Full exploratory & business analysis
-├── Hotels Booking Data (1).csv
+├── report/
+│   └── TravClan_Hotel_Analysis_Report.pdf
+│
+├── visuals/
+│   ├── avg_stay_by_outcome.png
+│   ├── booking_status_distribution.png
+│   ├── cancellation_by_star_rating.png
+│   ├── cancellation_share_by_channel.png
+│   ├── channel_outcomes.png
+│   ├── monthly_booking_volume.png
+│   ├── monthly_revenue_trend.png
+│   └── revenue_by_channel.png
+│
+├── hotel_analysis.ipynb
+├── hotels_booking_data.csv
 ├── LICENSE
 └── README.md
----
+```
+
 
 ---
 
