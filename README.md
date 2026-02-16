@@ -125,7 +125,7 @@ Failed bookings highlight operational inefficiencies before confirmation stage.
 ---
 
 ## 📁 Repository Structure
-
+---
 hotel_bookings_case_study/
 │
 ├── report/ # Final business report (PDF)
@@ -134,7 +134,7 @@ hotel_bookings_case_study/
 ├── Hotels Booking Data (1).csv
 ├── LICENSE
 └── README.md
-
+---
 
 ---
 
