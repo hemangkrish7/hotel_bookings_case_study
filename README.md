@@ -167,43 +167,6 @@ Hemang Krish
 Business Analysis | Data Strategy | Revenue Optimization  
 B.Tech Computer Engineering, DTU  
 
-
----
-
-## 🚀 Business Value Demonstrated
-
-✔ Root Cause Analysis (RCA)  
-✔ Revenue Risk Identification  
-✔ Channel Optimization Strategy  
-✔ Data-to-Decision Translation  
-✔ Structured Business Thinking  
-
----
-
-## 👤 About Me
-
-Hemang Krish  
-Business Analysis | Data Strategy | Revenue Optimization  
-B.Tech Computer Engineering, DTU  
-
----
-
-## 🚀 Business Value Demonstrated
-
-✔ Root Cause Analysis (RCA)  
-✔ Revenue Risk Identification  
-✔ Channel Optimization Strategy  
-✔ Data-to-Decision Translation  
-✔ Structured Business Thinking  
-
----
-
-## 👤 About Me
-
-Hemang Krish  
-Business Analysis | Data Strategy | Revenue Optimization  
-B.Tech Computer Engineering, DTU  
-
 MIT License
 
 Copyright (c) 2026 Hemang Krish
